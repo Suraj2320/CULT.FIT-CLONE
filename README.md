@@ -74,6 +74,22 @@ In this project we were able to achieve a near to perfect clone of the original 
 
 <br>
 
+
+## Features
+
+1. User can view all the products on the store and buy them
+2. User can browse the services provided by curefit and manage subscriptions on the profile section
+
+<br>
+
+## Limitations
+
+1. Not responsive yet and might not be properly visible on small screen devices
+2. CSS fails to load sometimes
+
+<br>
+
+
 ## Team Members and Contributors 😇
 
 👤 **Harsh gaur**
