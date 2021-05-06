@@ -74,7 +74,11 @@ In this project we were able to achieve a near to perfect clone of the original 
 
 <br>
 
+## Video Demo 
 
+https://www.linkedin.com/posts/harshgaur97_project-design-activity-6751535312800952320-1Qce
+
+<br>
 ## Features
 
 1. User can view all the products on the store and buy them
